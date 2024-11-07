@@ -1,0 +1,274 @@
+#-------------------------------
+# General Site Settings
+baseURL = "https://elisevolkman.com/"
+languageCode = "en-us"
+title = "Elise Volkman"
+googleAnalytics = "G-7Y2V9C7WHS" # Add your identifier. For example UA-99631805-1.
+paginate = 6
+
+
+[params]
+  logo = "/images/logo-EV-2024-horizontal.png" # You can add own logo. For example "/images/logo.png".
+  description = "I'm Elise, a freelance editor, fantasy author, and podcast host."
+  color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "My Work"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 6
+    hasChildren = true
+
+      # Footer Menu
+      [[menu.footer]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+      [[menu.footer]]
+      identifier = "projects"
+      name = "My Work"
+      url = "/projects/"
+      weight = 2
+
+      [[menu.footer]]
+      identifier = "services"
+      name = "Services"
+      url = "/services/"
+      weight = 3
+
+      [[menu.footer]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 4
+
+      [[menu.footer]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 5
+
+      [[menu.footer]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/posts/"
+      weight = 6
+
+  #-------------------------------
+  # Author Settings
+  [params.author]
+    author__name = "Elise Volkman"
+    author__bio = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
+    author__avatar = "/images/logo-EV-2024-nobg.png"
+
+  # Social Links
+    [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://instagram.com/elise_is_writing"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://facebook.com/elisevolkmanediting/"
+
+  [[params.social]]
+    icon = "ion-logo-linkedin"
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/elisevolkman/?originalSubdomain=ca"
+
+  [[params.social]]
+    icon = "ion-logo-youtube"
+    name = "YouTube"
+    link = "https://www.youtube.com/channel/UC7JtmODTHbmmcBNfFiNydnA"
+
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/elise_volkman/"
+
+  [[params.social]]
+    icon = "ion-logo-github"
+    name = "Github"
+    link = "https://github.com/elisebbv/"
+
+  # Example of adding a new link to the footer:
+  # [[params.social]]
+  #   icon = "ion-logo-youtube"
+  #   name = "Youtube"
+  #   link = "https://youtube.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    enable = true
+    hero__title = "Nym is the last living nymph in the province of Galia, and Jay is out for her blood."
+    hero__description = "The Nymph Keepers trilogy is available wherever ebooks are sold!"
+    hero__image = "/images/hero-nymph-keepers.jpg"
+
+  # Original Hero Settings (focus on editing)
+    # hero__title = "Let’s make magic together."
+    # hero__description = "My editorial feedback is strengths first, revisions to follow. You need to know what’s working in order to fix what’s not. You’re a reader or a writer with a need for a story? I’m an editor and author of speculative fiction. Together, we can make magic happen."
+    # hero__image = "/images/hero-image.jpg"
+
+  #-------------------------------
+  # Newsletter Settings
+  [params.mailchimp]
+    enable = true
+    mailchimp__identifier = "https://b0545c87.sibforms.com/serve/MUIEAPlGe9WLJi2sDdJ1lonWY-1EU_OaNwmx1vgW1iqif4GIukoPQDJNH7jjx2prV6VLXZ7zev8NqIo0iRTvR9M8bfRG_sE7Q9WPybIqToD6ZFU6_dGqvPFCyBWp39khaSzXXZH3fRqhsZvDQMC465NXurc6tan9XA_Sr9WBWges-bqhEmwoSXN_GkNTqY1yP75QRkqYS_37k45O" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__input__text = "Your email address..."
+    mailchimp__button__text = "Get Updates" # Add your button text
+
+
+  #-------------------------------
+  # Projects Settings
+  [params.projects]
+    enable = true
+    projects__title= "My Work"
+    projects__description= "SFF, Speculative Fiction, Podcasting, Memoirs, Blogging, Websites — Let's Work Together!"
+
+
+  #-------------------------------
+  # Testimonials Section
+  [params.testimonials]
+    enable = true
+    testimonial__title = "Kind Words"
+    testimonial__description = ""
+
+  [[params.testimonial_item]]
+    name = "Simona Moss"
+    image = "/images/simona-moss.jpg"
+    designation = "Author of The B Word: And Other Conversations"
+    link = "http://www.simonajaltavilla.com/"
+    content = "Elise and I met several times to read through my manuscript—and just have fun chats! :) She knows my book inside and out, and truly made me feel like what I've written is worthy and important. On many occasions, she left me positive comments throughout the editing process, that reminded me of why I wrote this book—which was incredibly helpful in my moments of doubt."
+
+  [[params.testimonial_item]]
+    name = "Eileen Cook"
+    image = "/images/eileen-cook.jpg"
+    designation = "Author of With Malice"
+    link = "https://eileencook.com/"
+    content = "I've had the opportunity to work with Elise both as a writer and as an editor. I worked with her twice through a university level creative writing program, the first time I have ever continued with someone for a second year. Elise has a great eye for editing. She's able to balance both a writer's strengths with also ensuring they understand where there are challenges and how to address those. She's kind and supportive, but not afraid to also be honest and direct. This can be hard to find in an editor. The students who worked with her provided frequent feedback about how much they enjoyed working with her and finding her input invaluable. Overall, Elise gracefully balances between the creative and professional sides of the writing industry. I would gladly work with her in the future."
+
+  [[params.testimonial_item]]
+    name = "Bee Wheatley"
+    image = "/images/bee-wheatley.jpg"
+    designation = "Author"
+    link = "https://beewheatley.com/"
+    content = "Elise’s edit letter and track changes are phenomenal and I heart her so much even though I haven't met her in person. I’m so grateful for her wonderful insights. I feel confident that my novel was in excellent hands."
+
+  [[params.testimonial_item]]
+    name = "Kyla Girling"
+    image = "/images/kyla-girling.jpg"
+    designation = "Managing Editor of Writer’s Block Solutions"
+    link = "https://www.linkedin.com/in/kyla-girling/"
+    content = "I can't recommend working with Elise enough! She's organized, efficient, and diligent; she's a thoughtful problem-solver who takes initiative when she identifies something that needs doing; and above all (and perhaps not surprisingly, considering her educational background) she communicates clearly and effectively both verbally and in writing. We consider ourselves very lucky to have Elise (and her skills, knowledge, and abilities) on our team."
+
+  [[params.testimonial_item]]
+    name = "Jennifer Becker"
+    image = "/images/jennifer-becker.jpg"
+    designation = "Author of Through Fire & Ruin"
+    link = "https://www.instagram.com/authorjbecker/"
+    content = "Reading through Elise’s notes has been both a pleasure to read and also really motivating while being incredibly helpful as well. I’m so glad to have her feedback on this. Working with her has been amazing. If you’re looking for an editor, especially if you’re writing fantasy, I highly recommend Elise."
+
+  [[params.testimonial_item]]
+    name = "Adrienne Huston"
+    image = "/images/adrienne-huston.jpg"
+    designation = "Freelance Editor"
+    link = "https://www.magnoliaediting.ca/"
+    content = "Elise's commitment to the writing and editing community is extensive; whether she is writing, editing, or hosting her podcast, she is a positive and gentle spirit that nurtures everyone around her. Her clients are lucky to have her on their side as her generosity and kindness apply equally to everyone in her life. She and I studied together at SFU, bumped into each other on social media, and continue to support one another in our network. She always impresses me with her knowledge of her genre, writing craft, and editing mechanics. When you hire Elise, you can be sure you are getting a top-notch editor who will do her utmost for you."
+
+  #-------------------------------
+  # Blog Section
+  [params.blog]
+    enable = true
+    blog__title = "Recent Musings"
+    blog__description = "I write fantasy for fun, read fantasy for research, and occasionally fantasize about how many friends I’d have if I got out of the house more."
+
+
+  #-------------------------------
+  # Gallery Footer Settings
+  [params.gallery]
+    enable = true
+
+  [[params.gallery_image]]
+    image_alt = "Mug of tea beside writing tablet on blue background"
+    image_url = "/images/footer-1.jpg"
+
+  [[params.gallery_image]]
+    image_alt = "Writing tablet on top of several open books"
+    image_url = "/images/footer-2.jpg"
+
+  [[params.gallery_image]]
+    image_alt = "The Tea Grannies, Miraya and Elise, smiling"
+    image_url = "/images/footer-3.jpg"
+
+  [[params.gallery_image]]
+    image_alt = "Book 'Through Fire and Ruin' on top of writing tablet on black background"
+    image_url = "/images/footer-4.jpg"
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    contact__email = "mjvznjnv" # Add your form_id
+
+    # NOTE
+    # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = false
+    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
