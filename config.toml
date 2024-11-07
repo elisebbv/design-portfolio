@@ -4,7 +4,7 @@ baseURL = "https://elisevolkman.com/"
 languageCode = "en-us"
 title = "Elise Volkman"
 googleAnalytics = "G-7Y2V9C7WHS" # Add your identifier. For example UA-99631805-1.
-paginate = 6
+paginate = 99
 
 
 [params]
@@ -16,89 +16,34 @@ paginate = 6
 #-------------------------------
 # Main Menu
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "projects"
-    name = "My Work"
-    url = "/projects/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "services"
-    name = "Services"
-    url = "/services/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "About"
-    name = "About"
-    url = "/about/"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 6
-    hasChildren = true
+  # [[menu.main]]
+   # identifier = "portfolio"
+   # name = "Portfolio"
+   # url = "/"
+   # weight = 1
 
       # Footer Menu
-      [[menu.footer]]
-      identifier = "home"
-      name = "Home"
-      url = "/"
-      weight = 1
-
-      [[menu.footer]]
-      identifier = "projects"
-      name = "My Work"
-      url = "/projects/"
-      weight = 2
-
-      [[menu.footer]]
-      identifier = "services"
-      name = "Services"
-      url = "/services/"
-      weight = 3
-
-      [[menu.footer]]
-      identifier = "about"
-      name = "About"
-      url = "/about/"
-      weight = 4
-
-      [[menu.footer]]
-      identifier = "contact"
-      name = "Contact"
-      url = "/contact/"
-      weight = 5
-
-      [[menu.footer]]
-      identifier = "blog"
-      name = "Blog"
-      url = "/posts/"
-      weight = 6
+      # [[menu.footer]]
+      # identifier = "portfolio"
+      # name = "Portfolio"
+      # url = "/"
+      # weight = 1
 
   #-------------------------------
   # Author Settings
   [params.author]
     author__name = "Elise Volkman"
-    author__bio = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
+    author__bio = "I'm an author, editor, and designer with a strong foundation of Graphic Design and Website Design. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
     author__avatar = "/images/logo-EV-2024-nobg.png"
 
   # Social Links
-    [[params.social]]
+
+  [[params.social]]
+    icon = "ion-logo-linkedin"
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/elisevolkman/?originalSubdomain=ca"
+
+  [[params.social]]
     icon = "ion-logo-instagram"
     name = "Instagram"
     link = "https://instagram.com/elise_is_writing"
@@ -109,19 +54,9 @@ paginate = 6
     link = "https://facebook.com/elisevolkmanediting/"
 
   [[params.social]]
-    icon = "ion-logo-linkedin"
-    name = "LinkedIn"
-    link = "https://www.linkedin.com/in/elisevolkman/?originalSubdomain=ca"
-
-  [[params.social]]
     icon = "ion-logo-youtube"
     name = "YouTube"
     link = "https://www.youtube.com/channel/UC7JtmODTHbmmcBNfFiNydnA"
-
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com/elise_volkman/"
 
   [[params.social]]
     icon = "ion-logo-github"
@@ -142,18 +77,13 @@ paginate = 6
   [params.hero]
     enable = true
     hero__title = "Author. Editor. Designer."
-    hero__description = "My experience and background give me an ideal foundation for website and graphic design."
+    hero__description = "My experience and background give me an ideal foundation for web design and graphic design. Includes WordPress, Squarespace, Wix, and Hugo website platforms, and Adobe Creative Suite, Canva, Inkscape, and Gimp design programs."
     hero__image = "/images/hero-image.jpg"
-
-  # Original Hero Settings (focus on editing)
-    # hero__title = "Let’s make magic together."
-    # hero__description = "My editorial feedback is strengths first, revisions to follow. You need to know what’s working in order to fix what’s not. You’re a reader or a writer with a need for a story? I’m an editor and author of speculative fiction. Together, we can make magic happen."
-    # hero__image = "/images/hero-image.jpg"
 
   #-------------------------------
   # Newsletter Settings
   [params.mailchimp]
-    enable = true
+    enable = false
     mailchimp__identifier = "https://b0545c87.sibforms.com/serve/MUIEAPlGe9WLJi2sDdJ1lonWY-1EU_OaNwmx1vgW1iqif4GIukoPQDJNH7jjx2prV6VLXZ7zev8NqIo0iRTvR9M8bfRG_sE7Q9WPybIqToD6ZFU6_dGqvPFCyBWp39khaSzXXZH3fRqhsZvDQMC465NXurc6tan9XA_Sr9WBWges-bqhEmwoSXN_GkNTqY1yP75QRkqYS_37k45O" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Get Updates" # Add your button text
@@ -162,15 +92,15 @@ paginate = 6
   #-------------------------------
   # Projects Settings
   [params.projects]
-    enable = true
-    projects__title= "My Work"
-    projects__description= "SFF, Speculative Fiction, Podcasting, Memoirs, Blogging, Websites — Let's Work Together!"
+    enable = false
+    projects__title= "Designer Sneak Peek"
+    projects__description= "Graphic Design & Website Design"
 
 
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
-    enable = true
+    enable = false
     testimonial__title = "Kind Words"
     testimonial__description = ""
 
@@ -220,8 +150,8 @@ paginate = 6
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "Recent Musings"
-    blog__description = "I write fantasy for fun, read fantasy for research, and occasionally fantasize about how many friends I’d have if I got out of the house more."
+    blog__title = ""
+    blog__description = ""
 
 
   #-------------------------------
@@ -239,7 +169,7 @@ paginate = 6
 
   [[params.gallery_image]]
     image_alt = "The Tea Grannies, Miraya and Elise, smiling"
-    image_url = "/images/footer-3.jpg"
+    image_url = "/images/the-tea-grannies-podcast.jpg"
 
   [[params.gallery_image]]
     image_alt = "Book 'Through Fire and Ruin' on top of writing tablet on black background"
