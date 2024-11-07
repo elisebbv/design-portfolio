@@ -7,8 +7,6 @@ description: Visual branding for a self-run, edited, and produced podcast for wr
 tags: [website, design, writing, editing]
 ---
 
-> Miraya Engelage and Elise Volkman bring you writing, editing, and reading tips from the tea-tables of their living rooms. Whether you're an experienced author or new writer, pour yourself a cup of tea and join them for discussions on first drafts, querying, and everything in between.
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/footer-3.jpg" loading="lazy">
@@ -25,6 +23,8 @@ tags: [website, design, writing, editing]
 
   </div>
 </div>
+
+> Miraya Engelage and Elise Volkman bring you writing, editing, and reading tips from the tea-tables of their living rooms. Whether you're an experienced author or new writer, pour yourself a cup of tea and join them for discussions on first drafts, querying, and everything in between.
 
 ## The Work
 - Logo design 
