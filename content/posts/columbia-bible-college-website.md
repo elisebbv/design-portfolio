@@ -2,7 +2,7 @@
 title: Website Design for Columbia Bible College
 date: 2024-11-05 08:01:35 +0300
 subtitle: WordPress, Flywheel, Adobe Creative Suite, Canva
-image: '/images/portfolio/columbia/columbia-website.png'
+image: '/images/columbia-website.png'
 description: Updating and maintaining the design and infrastructure of a private college website.
 tags: [website, design, writing, editing]
 ---
