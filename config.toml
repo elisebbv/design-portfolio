@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://elisevolkman.com/"
+baseURL = "https://design.elisevolkman.com/"
 languageCode = "en-us"
 title = "Elise Volkman"
 googleAnalytics = "G-7Y2V9C7WHS" # Add your identifier. For example UA-99631805-1.
