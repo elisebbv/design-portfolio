@@ -76,8 +76,8 @@ paginate = 99
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "Author. Editor. Designer."
-    hero__description = "My experience and background give me an ideal foundation for web design and graphic design. Includes WordPress, Squarespace, Wix, and Hugo website platforms, and Adobe Creative Suite, Canva, Inkscape, and Gimp design programs."
+    hero__title = "Hi! I'm Elise."
+    hero__description = "As an author, editor, and designer my experience and background give me an ideal foundation for web design and graphic design. I've worked with WordPress, Squarespace, Wix, and Hugo website platforms, and Adobe Creative Suite, Canva, Inkscape, and Gimp design programs."
     hero__image = "/images/hero-image.jpg"
 
   #-------------------------------
