@@ -9,33 +9,24 @@ tags: [website, design, writing, editing]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/columbia/columbia-desktop.png" loading="lazy">
-    <img src="/images/portfolio/columbia/columbia-mobile.png" loading="lazy">
+    <img src="/images/portfolio/stratum/stratum-desktop.png" loading="lazy">
+    <img src="/images/portfolio/stratum/stratum-mobile.png" loading="lazy">
   </div>
 </div>
 
-## Website Editor, Jan 2024 - Present
-Through my role as website editor at [Columbia Bible College](https://columbiabc.edu/), I updated their WordPress site to align with an updated visual branding guide. This involved adjusting global site settings in the WordPress dashboard, and also hunting for custom CSS in the additional settings to locate conflicting code that was preventing proper functioning of global settings.
+## Website Designer, Sep-Nov 2024
+As website designer for [Stratum Systems](https://stratum.it/), I met with their staff to develop a visual brand guide and a marketing strategy, and to discuss a Search Engine Optimization (SEO) strategy for their marketing efforts moving forward. We chose Squarespace as a website platform, as Stratum's staff need to learn to update the website in-house. This involved choosing a base template from Squarespace's database and adapting the global styles (colours, fonts, layout, spacing) to suit the visual brand guide developed over previous projects.
 
 ### Primary Responsibilities
-- Website audit of every page to identify design inconsistencies
-- Managing ticketing inbox to maintain and update information across the site
-- Designing custom templates based on the visual brand guide
-- Drafting a documentation guide of the site infrastructure for future staff
+- Updating and refining the company's visual brand guide to include the correct colours, fonts, and assets
+- Sorting through their current website for information to keep and/or discard
+- Adapting the Squarespace template to match their visual brand guide
+- Building out specified pages with the appropriate content, including adding Calls-to-Action (CTAs) for a streamlined user journey
+- Testing and optimizing both mobile and desktop views
 - Designing graphics and editing photos to add to the site
-- Strategizing and implementing updated website menu structure
-- Updating the site page by page for mobile optimization 
-- Communicating with marketing staff and contractors to coordinate website maintenance and updates
-- Connecting analytics tracking for reporting purposes
-- Building analytics reports for executive staff and review with stakeholders (board members, donors, etc.)
 
 ### Tools & Platforms
-- WordPress
-- Flywheel
-- Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+- Squarespace
+- Inkscape (open-source design software)
+- Gimp (open-source photo editor)
 - Canva
-- Gimp (photo editor)
-- Google Analytics
-- Google Search Console
-- Lighthouse
-- Looker Studio

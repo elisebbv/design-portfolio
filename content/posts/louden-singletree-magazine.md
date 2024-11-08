@@ -1,26 +1,35 @@
 ---
 title: Print Design for The Louden Singletree
-date: 2023-04-05 08:01:35 +0300
+date: 2024-04-05 08:01:35 +0300
 subtitle: Literary Journal for the University of the Fraser Valley
 image: '/images/portfolio/louden/louden-singletree-magazine.png'
 description: Design & layout in InDesign for the annual literary journal published by a student-run board.
 tags: [print, design, writing, editing]
 ---
 
-> Nym is the last living nymph in the province of Galia, and Jay is out for her blood.
-
 <div class="gallery-box">
   <div class="gallery">
-    <a href="https://books2read.com/rootsofblood" target="_blank" style="a hover:"><img src="/images/rob-cover.jpg" loading="lazy" alt="Project"></a>
-    <a href="https://books2read.com/heartoftheforest" target="_blank"><img src="/images/hotf-cover.jpg" loading="lazy" alt="Project"></a>
-    <a href="https://books2read.com/queenofthenymphs" target="_blank"><img src="/images/qotn-cover.jpg" loading="lazy" alt="Project"></a>
+    <img src="/images/portfolio/louden/louden-1.jpg" loading="lazy">
+    <img src="/images/portfolio/louden/louden-2.jpg" loading="lazy">
+    <img src="/images/portfolio/louden/louden-3.jpg" loading="lazy">
   </div>
 </div>
 
-I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series about Forest, a nymph whose people have been hunted to near-extinction for the healing properties in their blood. Jay needs nymph blood to help his sister, and Forest is supposed to be his solution to everything. Instead, Jay’s convictions war with his loyalties and he saves her from certain death, becoming a mercenary on the run in the process.
+## Design & Layout Manager, Sep 2023 - Apr 2024
+Each year, a student-run board from the University of the Fraser Valley publishes a new edition of [The Louden Singletree](https://www.ufv.ca/english/louden-singletree-literary-magazine/), a literary journal of student, alumni, and faculty art. In addition to supporting the board as co-Project Manager (formerly Webmaster), I was responsible for the design and layout of all finalized literary and visual art submissions in InDesign, to prepare files for professional printing with a local print company.
 
-Forest knows she can’t trust him — she has the scars to prove it — but she has no other choice. Jay is her only option, and his only option is to return home from banishment, risking imprisonment and even death, in order to keep them both safe.
+### Primary Responsibilities
+- Collaborating with board members on deadlines for all submissions, writing, editing, and visuals for the journal
+- Assisting the Project Manager and other board members with tracking and organizing submissions
+- Assisting the Social Media and Promotions managers with designs for posters and social media posts
+- Collecting all final edited submissions for layout
+- Using InDesign to layout the journal following the guidelines from previous years
+- Collaborating with the board and proofreaders to address typos and layout errors
+- Communicating with the printing company to prep files for professional printing
+- Picking up printed copies for distribution at the launch event
+- Assisting the Launch Event Manager by emceeing portions of the event 
 
-Their meeting sets their lives on a course of intertwining events in which they’ll either have to trust each other or find their own way in a world that wants them both dead.
-
-[Pick a store](https://books2read.com/rootsofblood)! The series is available wherever ebooks are sold.
+### Tools & Platforms
+- Microsoft Office (Word, Excel, OneDrive)
+- Adobe Creative Suite (InDesign, Photoshop)
+- Canva

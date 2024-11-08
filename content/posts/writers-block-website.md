@@ -9,32 +9,32 @@ tags: [website, design, writing, editing]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/columbia/columbia-desktop.png" loading="lazy">
-    <img src="/images/portfolio/columbia/columbia-mobile.png" loading="lazy">
+    <img src="/images/portfolio/wbs/wbs-desktop.png" loading="lazy">
+    <img src="/images/portfolio/wbs/wbs-mobile.png" loading="lazy">
   </div>
 </div>
 
-## Website Editor, Jan 2024 - Present
-Through my role as website editor at [Columbia Bible College](https://columbiabc.edu/), I updated their WordPress site to align with an updated visual branding guide. This involved adjusting global site settings in the WordPress dashboard, and also hunting for custom CSS in the additional settings to locate conflicting code that was preventing proper functioning of global settings.
+## Digital Marketing & Tech Whiz, Mar 2022 - Aug 2024
+At [Writer's Block Solutions](https://writersblocksolutions.ca/), I wore a lot of hats, including that of website designer. In collaboration with their website developer, I rebranded and updated the design and layout of their WordPress site to align with their refined visual branding guide. This involved incorporating the Elementor plugin into the WordPress infrastructure and adding pages to highlight the agency's service offerings.
 
 ### Primary Responsibilities
-- Website audit of every page to identify design inconsistencies
-- Managing ticketing inbox to maintain and update information across the site
-- Designing custom templates based on the visual brand guide
+- Communication Consultation exercise to revamp the website copy
+- Drafting wireframes in Canva to communicate the design vision to the web developer
+- Collaborating with the web developer on implementing and troubleshooting the design
+- Optimizing the design for mobile and desktop
+- Implementing best practices for accessibility across the site after successfully applying for a government grant
 - Drafting a documentation guide of the site infrastructure for future staff
 - Designing graphics and editing photos to add to the site
-- Strategizing and implementing updated website menu structure
-- Updating the site page by page for mobile optimization 
 - Communicating with marketing staff and contractors to coordinate website maintenance and updates
+- Writing, editing, and designing the layout for monthly and/or quarterly blog posts
 - Connecting analytics tracking for reporting purposes
-- Building analytics reports for executive staff and review with stakeholders (board members, donors, etc.)
+- Building analytics reports for executive staff
 
 ### Tools & Platforms
 - WordPress
-- Flywheel
-- Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+- Elementor
 - Canva
-- Gimp (photo editor)
+- Gimp (open-source photo editor)
 - Google Analytics
 - Google Search Console
 - Lighthouse

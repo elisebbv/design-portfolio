@@ -161,19 +161,19 @@ paginate = 99
 
   [[params.gallery_image]]
     image_alt = "Mug of tea beside writing tablet on blue background"
-    image_url = "/images/footer-1.jpg"
-
+    image_url = "/images/portfolio/degree/EV-monogram.jpg"
+    
   [[params.gallery_image]]
     image_alt = "Writing tablet on top of several open books"
-    image_url = "/images/footer-2.jpg"
+    image_url = "/images/footer-1.jpg"
 
   [[params.gallery_image]]
     image_alt = "The Tea Grannies, Miraya and Elise, smiling"
     image_url = "/images/the-tea-grannies-podcast.jpg"
 
   [[params.gallery_image]]
-    image_alt = "Book 'Through Fire and Ruin' on top of writing tablet on black background"
-    image_url = "/images/footer-4.jpg"
+    image_alt = "writing tablet"
+    image_url = "/images/writing-sample.jpg"
 
 
   #-------------------------------

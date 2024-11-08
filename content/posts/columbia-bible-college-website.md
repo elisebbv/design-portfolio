@@ -15,7 +15,7 @@ tags: [website, design, writing, editing]
 </div>
 
 ## Website Editor, Jan 2024 - Present
-Through my role as website editor at [Columbia Bible College](https://columbiabc.edu/), I updated their WordPress site to align with an updated visual branding guide. This involved adjusting global site settings in the WordPress dashboard, and also hunting for custom CSS in the additional settings to locate conflicting code that was preventing proper functioning of global settings.
+As website editor at [Columbia Bible College](https://columbiabc.edu/), I updated their WordPress site to align with an updated visual branding guide. This involved adjusting global site settings in the WordPress dashboard, and also hunting for custom CSS in the additional settings to locate conflicting code that was preventing proper functioning of global settings.
 
 ### Primary Responsibilities
 - Website audit of every page to identify design inconsistencies

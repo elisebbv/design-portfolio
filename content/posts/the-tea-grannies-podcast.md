@@ -24,14 +24,19 @@ tags: [website, design, writing, editing]
   </div>
 </div>
 
-> Miraya Engelage and Elise Volkman bring you writing, editing, and reading tips from the tea-tables of their living rooms. Whether you're an experienced author or new writer, pour yourself a cup of tea and join them for discussions on first drafts, querying, and everything in between.
-
-## The Work
+## Primary Responsibilities
 - Logo design 
 - Website design on ([Acast](https://shows.acast.com/the-tea-grannies))
 - Monthly social media post design
 - Special occasion social media post design (events, giveaways, and special announcements)
 
+## Tools & Platforms
+- Canva
+- Gimp (open-source photo editor)
+- Inkscape (open-source design software)
+- Acast (podcast-hosting platform)
+
+> Miraya Engelage and Elise Volkman bring you writing, editing, and reading tips from the tea-tables of their living rooms. Whether you're an experienced author or new writer, pour yourself a cup of tea and join them for discussions on first drafts, querying, and everything in between.
 
 ## The Story
 Miraya and I met in 2018 when we both apparated into the Speculative Fiction cohort under the guidance of Eileen Cook. What started as a mandatory classmate connection turned into a friendship that transcends age, distance, and whatever other weird barriers society places on people. School cohort meetings morphed into a monthly writing group that we run together, that continues going strong to this day. At some point, we looked back and realized we’d been messaging each other daily ever since: about writing, editing, books, and therapy.
