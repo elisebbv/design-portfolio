@@ -8,7 +8,7 @@ paginate = 99
 
 
 [params]
-  logo = "/images/logo-EV-2024-horizontal.png" # You can add own logo. For example "/images/logo.png".
+  logo = "/images/elise-volkman-horizontal-logo.png" # You can add own logo. For example "/images/logo.png".
   description = "I'm Elise, a freelance editor, fantasy author, and podcast host."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -34,7 +34,7 @@ paginate = 99
   [params.author]
     author__name = "Elise Volkman"
     author__bio = "I'm an author, editor, and designer with a strong foundation of Graphic Design and Website Design. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
-    author__avatar = "/images/logo-EV-2024-nobg.png"
+    author__avatar = "/images/elise-volkman-vertical-logo.png"
 
   # Social Links
 
@@ -78,7 +78,7 @@ paginate = 99
     enable = true
     hero__title = "Hi! I'm Elise."
     hero__description = "As an author, editor, and designer my experience and background give me an ideal foundation for web design and graphic design. I've worked with WordPress, Squarespace, Wix, and Hugo website platforms, and Adobe Creative Suite, Canva, Inkscape, and Gimp design programs."
-    hero__image = "/images/hero-image.jpg"
+    hero__image = "/images/author-photo.webp"
 
   #-------------------------------
   # Newsletter Settings
