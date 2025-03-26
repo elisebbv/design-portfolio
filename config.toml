@@ -34,7 +34,7 @@ paginate = 99
   [params.author]
     author__name = "Elise Volkman"
     author__bio = "I'm an author, editor, and designer with a strong foundation of Graphic Design and Website Design. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
-    author__avatar = "/images/elise-volkman-vertical-logo.png"
+    author__avatar = "/images/teacup-logo.png"
 
   # Social Links
 
