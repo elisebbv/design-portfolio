@@ -22,6 +22,18 @@ paginate = 99
    # url = "/"
    # weight = 1
 
+   [[menu.main]]
+    identifier = "personal"
+    name = "Personal Projects"
+    url = "/tags/personal/"
+    weight = 2
+   
+   [[menu.main]]
+    identifier = "commercial"
+    name = "Commercial Projects"
+    url = "/tags/commercial/"
+    weight = 3
+
       # Footer Menu
       # [[menu.footer]]
       # identifier = "portfolio"

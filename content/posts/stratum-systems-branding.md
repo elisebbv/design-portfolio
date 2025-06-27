@@ -4,7 +4,7 @@ date: 2024-08-31 08:01:35 +0300
 subtitle: Squarespace, Canva
 image: '/images/portfolio/stratum/stratum-systems-branding.png'
 description: Visual branding and website design for a local IT service provider.
-tags: [website, design, writing, editing]
+tags: [commercial, website]
 ---
 
 <div class="gallery-box">

@@ -4,7 +4,7 @@ date: 2022-01-08 08:01:35 +0300
 subtitle: Canva, Acast, Patreon
 image: '/images/the-tea-grannies-project.png'
 description: Visual branding for a self-run, edited, and produced podcast for writers.
-tags: [website, design, writing, editing]
+tags: [personal, commercial, branding]
 ---
 
 <div class="gallery-box">

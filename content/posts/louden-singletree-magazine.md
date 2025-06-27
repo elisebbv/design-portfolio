@@ -4,7 +4,7 @@ date: 2024-04-05 08:01:35 +0300
 subtitle: Literary Journal for the University of the Fraser Valley
 image: '/images/portfolio/louden/louden-singletree-magazine.png'
 description: Design & layout in InDesign for the annual literary journal published by a student-run board.
-tags: [print, design, writing, editing]
+tags: [commercial, magazine]
 ---
 
 <div class="gallery-box">

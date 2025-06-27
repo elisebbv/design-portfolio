@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/design/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/editing/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/tags/book-design/</loc>
+    <lastmod>2025-04-10T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
+    <lastmod>2025-04-10T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hounds-of-faith-and-fury/</loc>
+    <lastmod>2025-04-10T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal/</loc>
+    <lastmod>2025-04-10T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
+    <lastmod>2025-04-10T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
+    <lastmod>2025-04-10T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-design/</loc>
+    <lastmod>2025-04-09T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/time-for-tea/</loc>
+    <lastmod>2025-04-09T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stationary/</loc>
+    <lastmod>2025-04-08T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/write-at-home/</loc>
+    <lastmod>2025-04-08T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tortoise-and-hare/</loc>
+    <lastmod>2025-04-07T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/branding/</loc>
+    <lastmod>2025-04-07T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/commercial/</loc>
+    <lastmod>2025-04-07T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2024-11-05T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/columbia-bible-college-website/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2024-11-05T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/stratum-systems-branding/</loc>
@@ -32,11 +53,14 @@
     <loc>http://localhost:1313/posts/writers-block-website/</loc>
     <lastmod>2024-08-31T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/print/</loc>
+    <loc>http://localhost:1313/tags/magazine/</loc>
     <lastmod>2024-04-05T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/louden-singletree-magazine/</loc>
     <lastmod>2024-04-05T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/font/</loc>
+    <lastmod>2023-12-05T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/fur-elise-font-design/</loc>
     <lastmod>2023-12-05T08:01:35+03:00</lastmod>

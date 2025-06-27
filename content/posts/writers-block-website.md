@@ -4,7 +4,7 @@ date: 2024-08-31 08:01:35 +0300
 subtitle: WordPress, Canva
 image: '/images/portfolio/wbs/wbs-website.png'
 description: Updating and maintaining the design and infrastructure of a marketing agency website.
-tags: [website, design, writing, editing]
+tags: [commercial, website]
 ---
 
 <div class="gallery-box">
