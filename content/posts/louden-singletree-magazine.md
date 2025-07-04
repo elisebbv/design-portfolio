@@ -7,14 +7,6 @@ description: Design & layout in InDesign for the annual literary journal publish
 tags: [commercial, magazine]
 ---
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/portfolio/louden/louden-1.jpg" loading="lazy">
-    <img src="/images/portfolio/louden/louden-2.jpg" loading="lazy">
-    <img src="/images/portfolio/louden/louden-3.jpg" loading="lazy">
-  </div>
-</div>
-
 ## Design & Layout Manager, Sep 2023 - Apr 2024
 Each year, a student-run board from the University of the Fraser Valley publishes a new edition of [The Louden Singletree](https://www.ufv.ca/english/louden-singletree-literary-magazine/), a literary journal of student, alumni, and faculty art. In addition to supporting the board as co-Project Manager (formerly Webmaster), I was responsible for the design and layout of all finalized literary and visual art submissions in InDesign, to prepare files for professional printing with a local print company.
 
@@ -28,6 +20,14 @@ Each year, a student-run board from the University of the Fraser Valley publishe
 - Communicating with the printing company to prep files for professional printing
 - Picking up printed copies for distribution at the launch event
 - Assisting the Launch Event Manager by emceeing portions of the event 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/portfolio/louden/louden-1.jpg" loading="lazy">
+    <img src="/images/portfolio/louden/louden-2.jpg" loading="lazy">
+    <img src="/images/portfolio/louden/louden-3.jpg" loading="lazy">
+  </div>
+</div>
 
 ### Tools & Platforms
 - Microsoft Office (Word, Excel, OneDrive)
