@@ -1,9 +1,9 @@
 ---
-title: Font Design for a Graphic Design Course
+title: Fur Elise Font Design
 date: 2023-12-05 08:01:35 +0300
-subtitle: Designing a font based on music notation for a class during my Bachelor of Fine Arts
+subtitle: Designing a font based on music notation for a class during my Bachelor of Fine Arts.
 image: '/images/portfolio/degree/fur-elise-font-design.jpg'
-description: Designing a font based on music notation for a class during my Bachelor of Fine Arts
+description: Designing a font based on music notation for a class during my Bachelor of Fine Arts.
 tags: [personal, font]
 ---
 

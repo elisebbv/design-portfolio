@@ -1,9 +1,9 @@
 ---
-title: Brand Design for Children's Book Publisher
+title: Tortoise & Hare Brand Design
 date: 2025-04-07 08:01:35 +0300
-subtitle: Brand design for a publisher of children's books for a class during my Bachelor of Fine Arts
+subtitle: Brand design for a publisher of children's books for a class during my Bachelor of Fine Arts.
 image: '/images/portfolio/tortoise-and-hare/book-mockup.jpg'
-description: Brand design for a publisher of children's books for a class during my Bachelor of Fine Arts
+description: Brand design for a publisher of children's books for a class during my Bachelor of Fine Arts.
 tags: [commercial, branding]
 ---
 

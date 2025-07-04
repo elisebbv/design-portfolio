@@ -1,9 +1,9 @@
 ---
 title: Write At Home Stationary
 date: 2025-04-08 08:01:35 +0300
-subtitle: Designing a stationary set based on a defined brand guide for a class during my Bachelor of Fine Arts
+subtitle: Designing a stationary set based on a defined brand guide for a class during my Bachelor of Fine Arts.
 image: '/images/portfolio/write-at-home/write-at-home-cover.png'
-description: Designing a stationary set based on a defined brand guide for a class during my Bachelor of Fine Arts
+description: Designing a stationary set based on a defined brand guide for a class during my Bachelor of Fine Arts.
 tags: [personal, stationary]
 ---
 

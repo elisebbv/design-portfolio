@@ -1,18 +1,11 @@
 ---
-title: Website Design for Columbia Bible College
+title: Columbia Bible College Website Design
 date: 2024-11-05 08:01:35 +0300
 subtitle: WordPress, Flywheel, Adobe Creative Suite, Canva
 image: '/images/portfolio/columbia/columbia-website.png'
 description: Updating and maintaining the design and infrastructure of a private college website.
 tags: [commercial, website]
 ---
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/portfolio/columbia/columbia-desktop.png" loading="lazy">
-    <img src="/images/portfolio/columbia/columbia-mobile.png" loading="lazy">
-  </div>
-</div>
 
 ## Website Editor, Jan 2024 - Present
 As website editor at [Columbia Bible College](https://columbiabc.edu/), I updated their WordPress site to align with an updated visual branding guide. This involved adjusting global site settings in the WordPress dashboard, and also hunting for custom CSS in the additional settings to locate conflicting code that was preventing proper functioning of global settings.
@@ -28,6 +21,13 @@ As website editor at [Columbia Bible College](https://columbiabc.edu/), I update
 - Communicating with marketing staff and contractors to coordinate website maintenance and updates
 - Connecting analytics tracking for reporting purposes
 - Building analytics reports for executive staff and review with stakeholders (board members, donors, etc.)
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/portfolio/columbia/columbia-desktop.png" loading="lazy">
+    <img src="/images/portfolio/columbia/columbia-mobile.png" loading="lazy">
+  </div>
+</div>
 
 ### Tools & Platforms
 - WordPress

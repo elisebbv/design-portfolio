@@ -1,9 +1,9 @@
 ---
 title: Time for Tea Card Game
 date: 2025-04-09 08:01:35 +0300
-subtitle: Designing a card game based on a theme of tea and human connection for a class during my Bachelor of Fine Arts
+subtitle: Designing a card game based on a theme of tea and human connection for a class during my Bachelor of Fine Arts.
 image: '/images/portfolio/time-for-tea/time-for-tea-horizontal-1.jpg'
-description: Designing a card game based on a theme of tea and human connection for a class during my Bachelor of Fine Arts
+description: Designing a card game based on a theme of tea and human connection for a class during my Bachelor of Fine Arts.
 tags: [personal, game design]
 ---
 
