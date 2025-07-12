@@ -26,20 +26,32 @@ paginate = 99
     identifier = "personal"
     name = "Personal Projects"
     url = "/tags/personal/"
-    weight = 2
+    weight = 1
    
    [[menu.main]]
     identifier = "commercial"
     name = "Commercial Projects"
     url = "/tags/commercial/"
+    weight = 2
+    
+    [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
     weight = 3
 
       # Footer Menu
-      # [[menu.footer]]
-      # identifier = "portfolio"
-      # name = "Portfolio"
-      # url = "/"
-      # weight = 1
+      [[menu.footer]]
+      identifier = "personal"
+      name = "Personal Projects"
+      url = "/tags/personal/"
+      weight = 1
+
+      [[menu.footer]]
+      identifier = "commercial"
+      name = "Commercial Projects"
+      url = "/tags/commercial/"
+      weight = 1
 
   #-------------------------------
   # Author Settings
@@ -89,7 +101,7 @@ paginate = 99
   [params.hero]
     enable = true
     hero__title = "Hi! I'm Elise."
-    hero__description = "The designer in me is backed by a writer and editor who cares about punctuation just as much as pixels and page layout. I’ve built sites on WordPress, Squarespace, Wix, and Hugo (the one for developers who like Markdown more than drag-and-drop), and I can also charm both Adobe Creative Suite and open-source alternatives like GIMP and Inkscape into behaving."
+    hero__description = "As a writer and a designer, I offer a rare combination of skills that ensures every pixel and comma are intentionally placed. I’ve built and launched responsive websites on platforms like WordPress, Squarespace, Wix, and Hugo, focusing not just on page layout and content placement, but also on the integrity of the copy on each page. Recently, I redesigned a WordPress website for an educational non-profit and helped strategize multiple digital ad campaigns, contributing to a stabilized student enrolment rate after several years of continual decline. I’m now looking to bring this cross-functional expertise to a team that values clean design, clear messaging, and measurable impact."
     hero__image = "/images/author-photo.webp"
 
   #-------------------------------

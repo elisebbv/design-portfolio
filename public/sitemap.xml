@@ -32,19 +32,19 @@
     <loc>http://localhost:1313/posts/write-at-home/</loc>
     <lastmod>2025-04-08T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tortoise-and-hare/</loc>
-    <lastmod>2025-04-07T08:01:35+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/branding/</loc>
     <lastmod>2025-04-07T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/commercial/</loc>
     <lastmod>2025-04-07T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/posts/tortoise-and-hare/</loc>
+    <lastmod>2025-04-07T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/columbia-bible-college-website/</loc>
+    <lastmod>2024-11-05T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2024-11-05T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/stratum-systems-branding/</loc>
@@ -68,13 +68,13 @@
     <loc>http://localhost:1313/posts/the-tea-grannies-podcast/</loc>
     <lastmod>2022-01-08T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
   </url><url>
     <loc>http://localhost:1313/services/</loc>
   </url>
