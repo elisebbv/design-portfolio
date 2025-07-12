@@ -51,7 +51,13 @@ paginate = 99
       identifier = "commercial"
       name = "Commercial Projects"
       url = "/tags/commercial/"
-      weight = 1
+      weight = 2
+
+      [[menu.footer]]
+      identifier = "resume"
+      name = "Resume"
+      url = "/resume/"
+      weight = 3
 
   #-------------------------------
   # Author Settings
